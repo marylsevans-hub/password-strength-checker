@@ -31,6 +31,8 @@ Building this project helped me practice Python concepts including variables, co
 
 Most importantly, this project allowed me to connect programming with my interest in cybersecurity and better understand how code can be used to solve practical security problems.
 
+My QA automation background influenced how I approached this project. As I built each feature, I tested individual requirements, performed positive and negative testing with different password combinations, and completed an end-to-end test of the finished program. The project helped me see the connection between software development, quality assurance, and cybersecurity while giving me hands-on experience with Python.
+
 ## How to Run the Program
 
 1. Install Python 3.
